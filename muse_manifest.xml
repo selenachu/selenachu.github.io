@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://selenachu.github.io" resolutions="1x" timestamp="1579265017102">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://selenachu.github.io" resolutions="1x" timestamp="1581677872125">
   <folder name="css">
     <file name="site_global.css" crc="4085801442"/>
     <file name="master_a-main.css" crc="354019442" ref="design-drawing:body-rhythm:photography:graphic-design:light-installation:index:3d-workprocessingmotion-design:light-shadow-theatre:video-filming:about-me:installation:fundamental-design"/>
     <file name="design-drawing.css" crc="47161485" ref="design-drawing"/>
     <file name="body-rhythm.css" crc="300532022" ref="body-rhythm"/>
     <file name="photography.css" crc="536869822" ref="photography"/>
-    <file name="graphic-design.css" crc="3876569682" ref="graphic-design"/>
-    <file name="light-installation.css" crc="3927891537" ref="light-installation"/>
+    <file name="graphic-design.css" crc="149834585" ref="graphic-design"/>
+    <file name="light-installation.css" crc="3815052371" ref="light-installation"/>
     <file name="index.css" crc="3815810164" ref="index"/>
-    <file name="3d-workprocessingmotion-design.css" crc="85619323" ref="3d-workprocessingmotion-design"/>
+    <file name="3d-workprocessingmotion-design.css" crc="3771205851" ref="3d-workprocessingmotion-design"/>
     <file name="light-shadow-theatre.css" crc="455892681" ref="light-shadow-theatre"/>
     <file name="video-filming.css" crc="388647727" ref="video-filming"/>
     <file name="about-me.css" crc="167602230" ref="about-me"/>
@@ -30,46 +30,46 @@
     <file name="u426-4.png" crc="230469854" ref="index:video-filming:graphic-design:3d-workprocessingmotion-design:installation:photography:fundamental-design:about-me:body-rhythm:light-installation:light-shadow-theatre:design-drawing"/>
     <file name="blank.gif" crc="4208392903" ref="index:video-filming:graphic-design:3d-workprocessingmotion-design:installation:photography:fundamental-design:about-me:body-rhythm:light-installation:light-shadow-theatre:design-drawing"/>
     <file name="58485698e0bb315b0f7675a8.png" crc="490983433" seo="true" ref="index:video-filming:graphic-design:3d-workprocessingmotion-design:installation:photography:fundamental-design:about-me:body-rhythm:light-installation:light-shadow-theatre:design-drawing">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="installation" alt=""/>
-      <caption webpage="video-filming" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="design-drawing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="light-installation" alt=""/>
-      <caption webpage="3d-workprocessingmotion-design" alt=""/>
+      <caption webpage="design-drawing" alt=""/>
+      <caption webpage="fundamental-design" alt=""/>
       <caption webpage="body-rhythm" alt=""/>
       <caption webpage="light-shadow-theatre" alt=""/>
-      <caption webpage="fundamental-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="video-filming" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="3d-workprocessingmotion-design" alt=""/>
+      <caption webpage="installation" alt=""/>
     </file>
     <file name="639b3dafb544d6f061fcddd2d6686ddb.png" crc="516677138" seo="true" ref="index:video-filming:graphic-design:3d-workprocessingmotion-design:installation:photography:fundamental-design:about-me:body-rhythm:light-installation:light-shadow-theatre:design-drawing">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="installation" alt=""/>
-      <caption webpage="video-filming" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="design-drawing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="light-installation" alt=""/>
-      <caption webpage="3d-workprocessingmotion-design" alt=""/>
+      <caption webpage="design-drawing" alt=""/>
+      <caption webpage="fundamental-design" alt=""/>
       <caption webpage="body-rhythm" alt=""/>
       <caption webpage="light-shadow-theatre" alt=""/>
-      <caption webpage="fundamental-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="video-filming" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="3d-workprocessingmotion-design" alt=""/>
+      <caption webpage="installation" alt=""/>
     </file>
     <file name="281-2815251_transparent-fb-icon-png-new-facebook-icon-2019.jpg" crc="4105556167" seo="true" ref="index:video-filming:graphic-design:3d-workprocessingmotion-design:installation:photography:fundamental-design:about-me:body-rhythm:light-installation:light-shadow-theatre:design-drawing">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="installation" alt=""/>
-      <caption webpage="video-filming" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="design-drawing" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="light-installation" alt=""/>
-      <caption webpage="3d-workprocessingmotion-design" alt=""/>
+      <caption webpage="design-drawing" alt=""/>
+      <caption webpage="fundamental-design" alt=""/>
       <caption webpage="body-rhythm" alt=""/>
       <caption webpage="light-shadow-theatre" alt=""/>
-      <caption webpage="fundamental-design" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="video-filming" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="3d-workprocessingmotion-design" alt=""/>
+      <caption webpage="installation" alt=""/>
     </file>
     <file name="u1036_states.png" crc="523150734" ref="index:video-filming:graphic-design:3d-workprocessingmotion-design:installation:photography:fundamental-design:about-me:body-rhythm:light-installation:light-shadow-theatre:design-drawing"/>
     <file name="u1036_states-r.png" crc="3912539846" ref="index:video-filming:graphic-design:3d-workprocessingmotion-design:installation:photography:fundamental-design:about-me:body-rhythm:light-installation:light-shadow-theatre:design-drawing"/>
@@ -118,19 +118,10 @@
     <file name="svg-57936x785.png" crc="346871355" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="svg174241x1413poster.png" crc="21455403" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
     <file name="svg1190733x842poster.png" crc="3818722171" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="svg886973x526poster.png" crc="515041824" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="svg8556x294poster.png" crc="219095259" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="svg53352x717poster-crop-u783.png" crc="127692194" seo="true" ref="graphic-design">
+    <file name="svg53352x717poster-crop-u783.png" crc="243858643" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="svg33434x352poster-crop-u708.png" crc="489714824" seo="true" ref="graphic-design">
@@ -145,10 +136,6 @@
     <file name="export.gif" crc="1332734" seo="true" ref="3d-workprocessingmotion-design">
       <caption webpage="3d-workprocessingmotion-design" alt=""/>
     </file>
-    <file name="u943-4.png" crc="470066226" ref="3d-workprocessingmotion-design"/>
-    <file name="number2.jpg" crc="3770204114" seo="true" ref="3d-workprocessingmotion-design">
-      <caption webpage="3d-workprocessingmotion-design" alt=""/>
-    </file>
     <file name="svg-445529x375.png" crc="3769131262" seo="true" ref="3d-workprocessingmotion-design:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="3d-workprocessingmotion-design" alt=""/>
@@ -156,7 +143,7 @@
     <file name="u933_states.png" crc="3959305740" ref="3d-workprocessingmotion-design"/>
     <file name="u933_states-r.png" crc="374789274" ref="3d-workprocessingmotion-design"/>
     <file name="u903-5.png" crc="4186164994" ref="3d-workprocessingmotion-design"/>
-    <file name="u974-6.png" crc="82175488" ref="installation"/>
+    <file name="u974-6.png" crc="20655506" ref="installation"/>
     <file name="u987-8.png" crc="75965406" ref="installation"/>
     <file name="svg-36206x49185x116.png" crc="245503465" seo="true" ref="installation">
       <caption webpage="installation" alt=""/>
@@ -198,8 +185,8 @@
       <caption webpage="fundamental-design" alt=""/>
     </file>
     <file name="svg188628x522poster.png" crc="411626688" seo="true" ref="fundamental-design:design-drawing">
-      <caption webpage="fundamental-design" alt=""/>
       <caption webpage="design-drawing" alt=""/>
+      <caption webpage="fundamental-design" alt=""/>
     </file>
     <file name="u1365_states.png" crc="3978311447" ref="fundamental-design"/>
     <file name="u1365_states-r.png" crc="4078921668" ref="fundamental-design"/>
@@ -341,17 +328,31 @@
     <file name="u1984_states.png" crc="3917164846" ref="design-drawing"/>
     <file name="u1984_states-r.png" crc="520117186" ref="design-drawing"/>
     <file name="u1987-5.png" crc="4186164994" ref="design-drawing"/>
+    <file name="人體舞動海報初評修1_page-0001.jpg" crc="307186028" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="賀年卡展示ver2_page-0001.jpg" crc="3782564730" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="名片展示_page-0001.jpg" crc="17937533" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="nd hw2_page-0001.jpg" crc="506132790" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="u2567-6.png" crc="3901557039" ref="3d-workprocessingmotion-design"/>
+    <file name="u2571-6.png" crc="3987884018" ref="3d-workprocessingmotion-design"/>
   </folder>
-  <file name="index.html" crc="4044017768" seo="true" mt="1579265002135" redirect="true"/>
+  <file name="index.html" crc="4044017768" seo="true" mt="1581673111902" redirect="true"/>
   <file name="video-filming.html" crc="429380478" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="graphic-design.html" crc="4083041433" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="3d-workprocessingmotion-design.html" crc="3855405341" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="installation.html" crc="99152833" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="photography.html" crc="4002342751" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="fundamental-design.html" crc="4285694099" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="about-me.html" crc="4268534982" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="body-rhythm.html" crc="391063500" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="light-installation.html" crc="4161571938" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="light-shadow-theatre.html" crc="350817216" seo="true" mt="1579265002135" redirect="true"/>
-  <file name="design-drawing.html" crc="536223760" seo="true" mt="1579265002135" redirect="true"/>
+  <file name="graphic-design.html" crc="532381337" seo="true" mt="1581677754119" redirect="true"/>
+  <file name="3d-workprocessingmotion-design.html" crc="211814420" seo="true" mt="1581673525295" redirect="true"/>
+  <file name="installation.html" crc="422448903" seo="true" mt="1581673357160" redirect="true"/>
+  <file name="photography.html" crc="4002342751" seo="true" mt="1581673112746" redirect="true"/>
+  <file name="fundamental-design.html" crc="4285694099" seo="true" mt="1581673112838" redirect="true"/>
+  <file name="about-me.html" crc="4268534982" seo="true" mt="1581673112718" redirect="true"/>
+  <file name="body-rhythm.html" crc="391063500" seo="true" mt="1581673112553" redirect="true"/>
+  <file name="light-installation.html" crc="444433192" seo="true" mt="1581673112489" redirect="true"/>
+  <file name="light-shadow-theatre.html" crc="350817216" seo="true" mt="1581673112215" redirect="true"/>
+  <file name="design-drawing.html" crc="536223760" seo="true" mt="1581673112142" redirect="true"/>
 </manifest>
