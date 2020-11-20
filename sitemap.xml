@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://selenachu.github.io/index.html</loc>
-    <lastmod>2020-02-14</lastmod>
+    <lastmod>2020-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>http://selenachu.github.io/graphic-design.html</loc>
-    <lastmod>2020-02-14</lastmod>
+    <lastmod>2020-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -120,7 +120,13 @@
       <image:loc>http://selenachu.github.io/images/%E5%90%8D%E7%89%87%E5%B1%95%E7%A4%BA_page-0001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://selenachu.github.io/images/nd%20hw2_page-0001.jpg</image:loc>
+      <image:loc>http://selenachu.github.io/images/%E5%90%8A%E7%89%8C-07.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://selenachu.github.io/images/%E5%90%8A%E7%89%8C-08.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://selenachu.github.io/images/%E5%90%8A%E7%89%8C-09.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -263,7 +269,7 @@
   </url>
   <url>
     <loc>http://selenachu.github.io/light-shadow-theatre.html</loc>
-    <lastmod>2020-02-14</lastmod>
+    <lastmod>2020-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -274,6 +280,9 @@
     </image:image>
     <image:image>
       <image:loc>http://selenachu.github.io/images/281-2815251_transparent-fb-icon-png-new-facebook-icon-2019.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://selenachu.github.io/images/svg-453289x621.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://selenachu.github.io/images/svg-268434x377-crop-u1661.png</image:loc>
@@ -295,9 +304,6 @@
     </image:image>
     <image:image>
       <image:loc>http://selenachu.github.io/images/svg-242548x151.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://selenachu.github.io/images/svg-453289x6212.png</image:loc>
     </image:image>
   </url>
   <url>
