@@ -117,9 +117,6 @@
       <image:loc>http://selenachu.github.io/images/%E8%B3%80%E5%B9%B4%E5%8D%A1%E5%B1%95%E7%A4%BAver2_page-0001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://selenachu.github.io/images/%E5%90%8D%E7%89%87%E5%B1%95%E7%A4%BA_page-0001.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://selenachu.github.io/images/%E5%90%8A%E7%89%8C-07.png</image:loc>
     </image:image>
     <image:image>
@@ -130,6 +127,12 @@
     </image:image>
     <image:image>
       <image:loc>http://selenachu.github.io/images/%E6%B5%B7%E5%A0%B1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://selenachu.github.io/images/%E9%85%B7%E5%8D%A1%E8%83%8C%E9%9D%A2-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://selenachu.github.io/images/%E5%90%8D%E7%89%87%E5%B1%95%E7%A4%BA_page-0001-crop-u2623.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -236,7 +239,7 @@
   </url>
   <url>
     <loc>http://selenachu.github.io/about-me.html</loc>
-    <lastmod>2020-02-14</lastmod>
+    <lastmod>2020-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
